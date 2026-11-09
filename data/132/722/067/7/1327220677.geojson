@@ -50,7 +50,7 @@
         "wk:page":"Palcamayo"
     },
     "wof:country":"PE",
-    "wof:geomhash":"ec3914facc96909c99afeb8f1cb750a5",
+    "wof:geomhash":"6c522b5fdaf5794d455d1c16d0e09b87",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -76,5 +76,5 @@
     -75.77360999999998,
     -11.29472
 ],
-  "geometry": {"coordinates":[-75.77360999999998,-11.29472],"type":"Point"}
+  "geometry": {"coordinates":[-75.77361,-11.29472],"type":"Point"}
 }

@@ -71,7 +71,7 @@
         "wk:page":"Lake_Umayo"
     },
     "wof:country":"PE",
-    "wof:geomhash":"8e0076161e11d000aa81fe2d6ecd0722",
+    "wof:geomhash":"8484305c4c6e7b1ff3b529aab285ac7b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -97,5 +97,5 @@
     -70.14296999999999,
     -15.7237
 ],
-  "geometry": {"coordinates":[-70.14296999999999,-15.7237],"type":"Point"}
+  "geometry": {"coordinates":[-70.14297,-15.7237],"type":"Point"}
 }

@@ -65,7 +65,7 @@
         "wk:page":"Jes%C3%BAs%2C_Peru"
     },
     "wof:country":"PE",
-    "wof:geomhash":"72e8eac9d692d45dd53d5800da3a1525",
+    "wof:geomhash":"0af1ffba56d23de0093a39678efe5b6d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -91,5 +91,5 @@
     -76.63051999999998,
     -10.07865
 ],
-  "geometry": {"coordinates":[-76.63051999999998,-10.07865],"type":"Point"}
+  "geometry": {"coordinates":[-76.63052,-10.07865],"type":"Point"}
 }

@@ -47,7 +47,7 @@
         "wk:page":"Ccota%C3%B1a"
     },
     "wof:country":"PE",
-    "wof:geomhash":"4a22ad14aa06d633f98c2bb6de690662",
+    "wof:geomhash":"f55ea356fb45fb48751a14567401251c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -73,5 +73,5 @@
     -71.59555999999998,
     -15.19806
 ],
-  "geometry": {"coordinates":[-71.59555999999998,-15.19806],"type":"Point"}
+  "geometry": {"coordinates":[-71.59556,-15.19806],"type":"Point"}
 }

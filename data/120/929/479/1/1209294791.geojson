@@ -93,7 +93,7 @@
         "wk:page":"Cahuachi"
     },
     "wof:country":"PE",
-    "wof:geomhash":"d9a2a5a8a3e0777acc5b4e4742e9b9dc",
+    "wof:geomhash":"2399f58a4a62068c8913f07eeacea2e5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -119,5 +119,5 @@
     -75.10576999999998,
     -14.81891
 ],
-  "geometry": {"coordinates":[-75.10576999999998,-14.81891],"type":"Point"}
+  "geometry": {"coordinates":[-75.10577,-14.81891],"type":"Point"}
 }

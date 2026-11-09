@@ -47,7 +47,7 @@
         "wk:page":"Mariposa,_Satipo_Province"
     },
     "wof:country":"PE",
-    "wof:geomhash":"b85a666cfbb4f835b427e02a82285b46",
+    "wof:geomhash":"30f97b5906a43e90c6f0bb23a59f1912",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -73,5 +73,5 @@
     -74.75083000000002,
     -11.4025
 ],
-  "geometry": {"coordinates":[-74.75083000000002,-11.4025],"type":"Point"}
+  "geometry": {"coordinates":[-74.75083,-11.4025],"type":"Point"}
 }

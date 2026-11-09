@@ -52,7 +52,7 @@
         "wk:page":"Arahuay"
     },
     "wof:country":"PE",
-    "wof:geomhash":"d21bec14adf5faefafcb6b7aa7888aae",
+    "wof:geomhash":"9847f3ff7579e044494eac7e008c513b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,5 +78,5 @@
     -76.66944000000002,
     -11.62222
 ],
-  "geometry": {"coordinates":[-76.66944000000002,-11.62222],"type":"Point"}
+  "geometry": {"coordinates":[-76.66944,-11.62222],"type":"Point"}
 }

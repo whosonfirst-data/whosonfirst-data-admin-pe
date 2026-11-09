@@ -65,7 +65,7 @@
         "wk:page":"Maras%2C_Peru"
     },
     "wof:country":"PE",
-    "wof:geomhash":"fb68806691b04d9049ebc4ac4c440ee6",
+    "wof:geomhash":"36dad743564c09cbbad58361a8a0b9fc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -91,5 +91,5 @@
     -72.15666999999998,
     -13.335
 ],
-  "geometry": {"coordinates":[-72.15666999999998,-13.335],"type":"Point"}
+  "geometry": {"coordinates":[-72.15667,-13.335],"type":"Point"}
 }

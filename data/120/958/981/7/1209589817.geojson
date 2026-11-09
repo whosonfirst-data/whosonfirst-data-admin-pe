@@ -49,7 +49,7 @@
         "wk:page":"Angostura,_Sullana"
     },
     "wof:country":"PE",
-    "wof:geomhash":"0187520a6d3b19743417019817431056",
+    "wof:geomhash":"f96fb41980f422fec3ea3f28e01ab8e3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,5 +75,5 @@
     -80.37680999999998,
     -4.94391
 ],
-  "geometry": {"coordinates":[-80.37680999999998,-4.94391],"type":"Point"}
+  "geometry": {"coordinates":[-80.37681,-4.94391],"type":"Point"}
 }

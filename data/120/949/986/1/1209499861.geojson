@@ -53,7 +53,7 @@
         "wk:page":"Ccatca"
     },
     "wof:country":"PE",
-    "wof:geomhash":"525987fea1fcb5c1e46189c562b9cc17",
+    "wof:geomhash":"f6b2d61fc0c3e48e243dfc4a357b7ace",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,5 +79,5 @@
     -71.55944000000002,
     -13.60472
 ],
-  "geometry": {"coordinates":[-71.55944000000002,-13.60472],"type":"Point"}
+  "geometry": {"coordinates":[-71.55944,-13.60472],"type":"Point"}
 }

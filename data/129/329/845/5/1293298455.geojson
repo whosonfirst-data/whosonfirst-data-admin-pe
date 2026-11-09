@@ -77,7 +77,7 @@
         "wk:page":"Aplao"
     },
     "wof:country":"PE",
-    "wof:geomhash":"217e3620c001960599023560bdef0676",
+    "wof:geomhash":"b8a38171858965cdc41a3e8cb77b3acd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,5 +103,5 @@
     -72.49389000000002,
     -16.07583
 ],
-  "geometry": {"coordinates":[-72.49389000000002,-16.07583],"type":"Point"}
+  "geometry": {"coordinates":[-72.49389,-16.07583],"type":"Point"}
 }

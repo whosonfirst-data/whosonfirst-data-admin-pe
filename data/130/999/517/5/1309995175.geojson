@@ -56,7 +56,7 @@
         "wk:page":"Lircay%2C_Peru"
     },
     "wof:country":"PE",
-    "wof:geomhash":"1280c62db132bc66622ec2cd7393ed78",
+    "wof:geomhash":"6fbbcbe86336186e9492f973795c203b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -82,5 +82,5 @@
     -74.71667,
     -13.0
 ],
-  "geometry": {"coordinates":[-74.71666999999999,-13.0],"type":"Point"}
+  "geometry": {"coordinates":[-74.71667,-13],"type":"Point"}
 }

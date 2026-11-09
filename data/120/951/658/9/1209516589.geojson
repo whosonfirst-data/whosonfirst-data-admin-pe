@@ -65,7 +65,7 @@
         "wk:page":"Chuquibambilla"
     },
     "wof:country":"PE",
-    "wof:geomhash":"d3c92dc3f8a50919970b9ec331640a71",
+    "wof:geomhash":"2cb36e42a76abd3c6ffd1e7b97736b26",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -91,5 +91,5 @@
     -72.70666999999997,
     -14.10194
 ],
-  "geometry": {"coordinates":[-72.70666999999997,-14.10194],"type":"Point"}
+  "geometry": {"coordinates":[-72.70667,-14.10194],"type":"Point"}
 }

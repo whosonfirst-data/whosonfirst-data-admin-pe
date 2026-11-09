@@ -47,7 +47,7 @@
         "wk:page":"Buenos_Aires%2C_Trujillo"
     },
     "wof:country":"PE",
-    "wof:geomhash":"713c651f17026e00e80431da700040cb",
+    "wof:geomhash":"dd13c195408ad6fe95a9367a92dfdb66",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -73,5 +73,5 @@
     -79.04028000000002,
     -8.13861
 ],
-  "geometry": {"coordinates":[-79.04028000000002,-8.13861],"type":"Point"}
+  "geometry": {"coordinates":[-79.04028,-8.13861],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Cartavio%2C_Peru"
     },
     "wof:country":"PE",
-    "wof:geomhash":"c3fa2e4858943a49721bcfffb1b6d7c2",
+    "wof:geomhash":"df6e18b1613ee5d3f9a141af712ae29f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -77,5 +77,5 @@
     -79.22131999999998,
     -7.89192
 ],
-  "geometry": {"coordinates":[-79.22131999999998,-7.89192],"type":"Point"}
+  "geometry": {"coordinates":[-79.22132,-7.89192],"type":"Point"}
 }

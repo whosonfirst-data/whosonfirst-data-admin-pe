@@ -65,7 +65,7 @@
         "wk:page":"Locumba"
     },
     "wof:country":"PE",
-    "wof:geomhash":"1b78025e0f99935e52a8938aa9ad2adb",
+    "wof:geomhash":"f21cdfbe5a23e8d64bd16cfed21674d1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -91,5 +91,5 @@
     -70.76278,
     -17.61332999999999
 ],
-  "geometry": {"coordinates":[-70.76278000000001,-17.61332999999999],"type":"Point"}
+  "geometry": {"coordinates":[-70.76278,-17.61333],"type":"Point"}
 }

@@ -62,7 +62,7 @@
         "wk:page":"Yanahuanca"
     },
     "wof:country":"PE",
-    "wof:geomhash":"e27a71fb4e667168e27ef662c3ddccbb",
+    "wof:geomhash":"3fe20c4981ed6a03aed92ae5e63a1430",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -88,5 +88,5 @@
     -76.51666999999998,
     -10.49139
 ],
-  "geometry": {"coordinates":[-76.51666999999998,-10.49139],"type":"Point"}
+  "geometry": {"coordinates":[-76.51667,-10.49139],"type":"Point"}
 }

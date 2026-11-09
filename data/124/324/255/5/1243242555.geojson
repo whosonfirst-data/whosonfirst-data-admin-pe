@@ -47,7 +47,7 @@
         "wk:page":"Magdalena_de_Cao"
     },
     "wof:country":"PE",
-    "wof:geomhash":"feda817781b41dda1318fb0a644fa273",
+    "wof:geomhash":"9a4d70cd1880e4567ae49522f1f27363",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -73,5 +73,5 @@
     -79.29458000000002,
     -7.87778
 ],
-  "geometry": {"coordinates":[-79.29458000000002,-7.87778],"type":"Point"}
+  "geometry": {"coordinates":[-79.29458,-7.87778],"type":"Point"}
 }

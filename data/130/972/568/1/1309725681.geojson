@@ -99,7 +99,7 @@
         "wk:page":"Bagua%2C_Peru"
     },
     "wof:country":"PE",
-    "wof:geomhash":"abc2b29d0bbd74066529dc7fd758691f",
+    "wof:geomhash":"e8415e06f032bd7739dc48b21da09ab9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -125,5 +125,5 @@
     -78.53430999999998,
     -5.63311
 ],
-  "geometry": {"coordinates":[-78.53430999999998,-5.63311],"type":"Point"}
+  "geometry": {"coordinates":[-78.53431,-5.63311],"type":"Point"}
 }

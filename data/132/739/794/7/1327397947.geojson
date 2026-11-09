@@ -59,7 +59,7 @@
         "wk:page":"Chupa_District"
     },
     "wof:country":"PE",
-    "wof:geomhash":"324fbb5d6fbac025907893b21856f003",
+    "wof:geomhash":"e96cc1c955aad348cd650c909371e7c1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,5 +85,5 @@
     -69.98333000000001,
     -15.1
 ],
-  "geometry": {"coordinates":[-69.98333000000001,-15.1],"type":"Point"}
+  "geometry": {"coordinates":[-69.98333,-15.1],"type":"Point"}
 }

@@ -50,7 +50,7 @@
         "wk:page":"Aramango"
     },
     "wof:country":"PE",
-    "wof:geomhash":"a95aa716bac749b54eeb28f802656ced",
+    "wof:geomhash":"13ede523ef677e1015886c9d0a1a09b2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -76,5 +76,5 @@
     -78.43583000000002,
     -5.41639
 ],
-  "geometry": {"coordinates":[-78.43583000000002,-5.41639],"type":"Point"}
+  "geometry": {"coordinates":[-78.43583,-5.41639],"type":"Point"}
 }

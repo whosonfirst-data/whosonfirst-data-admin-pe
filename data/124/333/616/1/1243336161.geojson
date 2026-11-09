@@ -43,7 +43,7 @@
         "gn:id":3969989
     },
     "wof:country":"PE",
-    "wof:geomhash":"c1e54dc66eb1e8f998f04e8cbf5b0c87",
+    "wof:geomhash":"4137f50d85de95e9b158c030ac69c87b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -69,5 +69,5 @@
     -77.64386999999998,
     -11.29363
 ],
-  "geometry": {"coordinates":[-77.64386999999998,-11.29363],"type":"Point"}
+  "geometry": {"coordinates":[-77.64387,-11.29363],"type":"Point"}
 }

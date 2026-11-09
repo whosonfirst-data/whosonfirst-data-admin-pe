@@ -44,7 +44,7 @@
         "wk:page":"Pocata"
     },
     "wof:country":"PE",
-    "wof:geomhash":"dc981fcca3a9d79d82be68f11209a815",
+    "wof:geomhash":"a92498e6d5ccac5dd72b2deda87a9d2c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -70,5 +70,5 @@
     -70.80941999999997,
     -17.11981
 ],
-  "geometry": {"coordinates":[-70.80941999999997,-17.11981],"type":"Point"}
+  "geometry": {"coordinates":[-70.80942,-17.11981],"type":"Point"}
 }

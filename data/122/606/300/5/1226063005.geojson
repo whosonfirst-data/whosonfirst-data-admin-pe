@@ -62,7 +62,7 @@
         "wk:page":"Puerto_Inca"
     },
     "wof:country":"PE",
-    "wof:geomhash":"4c14591ae84f99d3105b51ab66cc0d4b",
+    "wof:geomhash":"8760943640ddec5dea96a2236322d303",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -88,5 +88,5 @@
     -74.96564000000002,
     -9.377
 ],
-  "geometry": {"coordinates":[-74.96564000000002,-9.377],"type":"Point"}
+  "geometry": {"coordinates":[-74.96564,-9.377],"type":"Point"}
 }

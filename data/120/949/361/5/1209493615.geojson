@@ -64,7 +64,7 @@
         "wk:page":"Huacaybamba"
     },
     "wof:country":"PE",
-    "wof:geomhash":"c38c5dfc48ef2a61eab576ba42093576",
+    "wof:geomhash":"1e7be5d24448c4b96de3d1681f81b33c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,5 +90,5 @@
     -76.95293000000002,
     -9.03819
 ],
-  "geometry": {"coordinates":[-76.95293000000002,-9.03819],"type":"Point"}
+  "geometry": {"coordinates":[-76.95293,-9.03819],"type":"Point"}
 }

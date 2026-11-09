@@ -44,7 +44,7 @@
         "wk:page":"Ccotancaire"
     },
     "wof:country":"PE",
-    "wof:geomhash":"6afd8e4b038be6abcbd90fd9cfc2e67e",
+    "wof:geomhash":"32659a6dd8ad896ae16dd1c8d4826599",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -70,5 +70,5 @@
     -72.48333000000002,
     -14.06667
 ],
-  "geometry": {"coordinates":[-72.48333000000002,-14.06667],"type":"Point"}
+  "geometry": {"coordinates":[-72.48333,-14.06667],"type":"Point"}
 }

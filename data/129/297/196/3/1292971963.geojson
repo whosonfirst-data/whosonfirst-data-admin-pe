@@ -51,7 +51,7 @@
         "wk:page":"Puerto_Mor%C3%ADn"
     },
     "wof:country":"PE",
-    "wof:geomhash":"d3975b0b2c53eed3ae8e3a11d22a1a0c",
+    "wof:geomhash":"12f17bdf96e7147153b72bc03ad28926",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -77,5 +77,5 @@
     -78.89263000000003,
     -8.40258
 ],
-  "geometry": {"coordinates":[-78.89263000000003,-8.40258],"type":"Point"}
+  "geometry": {"coordinates":[-78.89263,-8.40258],"type":"Point"}
 }

@@ -53,7 +53,7 @@
         "wk:page":"San_Juan_de_Marcona"
     },
     "wof:country":"PE",
-    "wof:geomhash":"a95853a3af109e89f745cdd3445e6a3e",
+    "wof:geomhash":"4ef5b6a8c1e92d9db7cf44ab29d8aa44",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,5 +79,5 @@
     -75.16221999999998,
     -15.36528
 ],
-  "geometry": {"coordinates":[-75.16221999999998,-15.36528],"type":"Point"}
+  "geometry": {"coordinates":[-75.16222,-15.36528],"type":"Point"}
 }

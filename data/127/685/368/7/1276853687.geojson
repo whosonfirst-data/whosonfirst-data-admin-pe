@@ -50,7 +50,7 @@
         "wk:page":"Huaricanga"
     },
     "wof:country":"PE",
-    "wof:geomhash":"1b309485fc3773c1a31a9464b3c37a76",
+    "wof:geomhash":"abdf0e8c15f121d9e0dcc8797a5243ff",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -76,5 +76,5 @@
     -77.74878000000002,
     -10.48794
 ],
-  "geometry": {"coordinates":[-77.74878000000002,-10.48794],"type":"Point"}
+  "geometry": {"coordinates":[-77.74878,-10.48794],"type":"Point"}
 }

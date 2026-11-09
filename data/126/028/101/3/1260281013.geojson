@@ -44,7 +44,7 @@
         "wk:page":"Sexy,_Peru"
     },
     "wof:country":"PE",
-    "wof:geomhash":"ff461525899f6457905a230960173ed5",
+    "wof:geomhash":"69d0a8dceec6f5c725997994af7caed1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -70,5 +70,5 @@
     -78.42860999999998,
     -6.67417
 ],
-  "geometry": {"coordinates":[-78.42860999999998,-6.67417],"type":"Point"}
+  "geometry": {"coordinates":[-78.42861,-6.67417],"type":"Point"}
 }

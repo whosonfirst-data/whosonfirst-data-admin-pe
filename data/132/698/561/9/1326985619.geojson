@@ -50,7 +50,7 @@
         "wk:page":"Puerto_Pizarro"
     },
     "wof:country":"PE",
-    "wof:geomhash":"07157011f604bb94caa6f9a2146958f0",
+    "wof:geomhash":"910cd46f369b0714f5470d90cfaeed19",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -76,5 +76,5 @@
     -80.38998000000002,
     -3.50136
 ],
-  "geometry": {"coordinates":[-80.38998000000002,-3.50136],"type":"Point"}
+  "geometry": {"coordinates":[-80.38998,-3.50136],"type":"Point"}
 }

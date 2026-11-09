@@ -73,7 +73,7 @@
         "wk:page":"Chalhuanca"
     },
     "wof:country":"PE",
-    "wof:geomhash":"aeca2da32c9fceb4d08d6c0afe5efe55",
+    "wof:geomhash":"a87046a5b650da8f7199e34e7c13bb69",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,5 +99,5 @@
     -73.23083000000003,
     -14.30056
 ],
-  "geometry": {"coordinates":[-73.23083000000003,-14.30056],"type":"Point"}
+  "geometry": {"coordinates":[-73.23083,-14.30056],"type":"Point"}
 }

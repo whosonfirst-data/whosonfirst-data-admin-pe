@@ -77,7 +77,7 @@
         "wk:page":"Aguayt%C3%ADa"
     },
     "wof:country":"PE",
-    "wof:geomhash":"de6e872f8cfbfb730f9865c620a427d7",
+    "wof:geomhash":"7200f2fc67e511f37ebcb8ddcc5a17a8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,5 +103,5 @@
     -75.50905999999998,
     -9.03778
 ],
-  "geometry": {"coordinates":[-75.50905999999998,-9.03778],"type":"Point"}
+  "geometry": {"coordinates":[-75.50906,-9.03778],"type":"Point"}
 }

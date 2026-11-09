@@ -48,7 +48,7 @@
         "wk:page":"Cachiche"
     },
     "wof:country":"PE",
-    "wof:geomhash":"39fedc0115bb9e1672af5d7fd0a5e7ce",
+    "wof:geomhash":"a3612f4091b9be8b29011c5d71f6ccaf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -74,5 +74,5 @@
     -75.73628000000002,
     -14.087
 ],
-  "geometry": {"coordinates":[-75.73628000000002,-14.087],"type":"Point"}
+  "geometry": {"coordinates":[-75.73628,-14.087],"type":"Point"}
 }

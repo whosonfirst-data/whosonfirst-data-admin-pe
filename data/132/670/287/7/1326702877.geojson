@@ -69,7 +69,7 @@
         "wk:page":"Acaray"
     },
     "wof:country":"PE",
-    "wof:geomhash":"ff9d65bc14b01c0b29de1650f0193ac8",
+    "wof:geomhash":"c331df201fc0fab765d085b2749db4be",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -95,5 +95,5 @@
     -77.54805999999998,
     -11.05377
 ],
-  "geometry": {"coordinates":[-77.54805999999998,-11.05377],"type":"Point"}
+  "geometry": {"coordinates":[-77.54806,-11.05377],"type":"Point"}
 }

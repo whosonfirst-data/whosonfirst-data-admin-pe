@@ -74,7 +74,7 @@
         "wk:page":"Paucartambo%2C_Paucartambo"
     },
     "wof:country":"PE",
-    "wof:geomhash":"bd2afd06a343d94844ffcd1913a5d555",
+    "wof:geomhash":"c0eb22fb29deb28efec64cc6ee6e79b8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,5 +100,5 @@
     -71.59364000000002,
     -13.31522
 ],
-  "geometry": {"coordinates":[-71.59364000000002,-13.31522],"type":"Point"}
+  "geometry": {"coordinates":[-71.59364,-13.31522],"type":"Point"}
 }

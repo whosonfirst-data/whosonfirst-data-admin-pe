@@ -56,7 +56,7 @@
         "wk:page":"Ventarron"
     },
     "wof:country":"PE",
-    "wof:geomhash":"647d244363a65f516977e23b7ca32eec",
+    "wof:geomhash":"cfd99b717f63a7bb25580a9a9be8ea73",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -82,5 +82,5 @@
     -79.75686999999998,
     -6.80125
 ],
-  "geometry": {"coordinates":[-79.75686999999998,-6.80125],"type":"Point"}
+  "geometry": {"coordinates":[-79.75687,-6.80125],"type":"Point"}
 }

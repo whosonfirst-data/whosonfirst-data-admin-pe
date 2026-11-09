@@ -53,7 +53,7 @@
         "wk:page":"Yucay"
     },
     "wof:country":"PE",
-    "wof:geomhash":"63429d4b51e4853c8db3796dfe340145",
+    "wof:geomhash":"14ae26b9054eb885c03d776e6d614eb3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,5 +79,5 @@
     -72.08221999999998,
     -13.32139
 ],
-  "geometry": {"coordinates":[-72.08221999999998,-13.32139],"type":"Point"}
+  "geometry": {"coordinates":[-72.08222,-13.32139],"type":"Point"}
 }

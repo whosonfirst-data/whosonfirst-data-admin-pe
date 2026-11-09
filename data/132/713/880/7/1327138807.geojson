@@ -56,7 +56,7 @@
         "wk:page":"Pacapausa_District"
     },
     "wof:country":"PE",
-    "wof:geomhash":"a8983985783baa1f580adb7992c202f9",
+    "wof:geomhash":"19373102a81cc7c91c4d3e7237407e3f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -82,5 +82,5 @@
     -73.36778000000002,
     -14.95139
 ],
-  "geometry": {"coordinates":[-73.36778000000002,-14.95139],"type":"Point"}
+  "geometry": {"coordinates":[-73.36778,-14.95139],"type":"Point"}
 }

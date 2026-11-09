@@ -50,7 +50,7 @@
         "wk:page":"Sangarar%C3%A1%2C_Peru"
     },
     "wof:country":"PE",
-    "wof:geomhash":"eabc6e6d31027dbedf21329d696de8ad",
+    "wof:geomhash":"fc3c543d662baa349e7181c0550ef5cc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -76,5 +76,5 @@
     -71.60300000000002,
     -13.94822
 ],
-  "geometry": {"coordinates":[-71.60300000000002,-13.94822],"type":"Point"}
+  "geometry": {"coordinates":[-71.603,-13.94822],"type":"Point"}
 }
