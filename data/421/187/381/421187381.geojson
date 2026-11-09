@@ -104,7 +104,7 @@
     "wof:belongsto":[
         102191577,
         85632521,
-        85675909
+        1175613121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -120,13 +120,13 @@
             "continent_id":102191577,
             "country_id":85632521,
             "locality_id":421187381,
-            "region_id":85675909
+            "region_id":1175613121
         }
     ],
     "wof:id":421187381,
     "wof:lastmodified":1566676503,
     "wof:name":"San Isidro",
-    "wof:parent_id":85675909,
+    "wof:parent_id":1175613121,
     "wof:placetype":"locality",
     "wof:population":68309,
     "wof:population_rank":8,

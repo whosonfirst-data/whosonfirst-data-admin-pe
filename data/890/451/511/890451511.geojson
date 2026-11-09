@@ -32,7 +32,7 @@
     "wof:belongsto":[
         102191577,
         85632521,
-        85675909
+        1175613121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,13 +47,13 @@
             "continent_id":102191577,
             "country_id":85632521,
             "locality_id":890451511,
-            "region_id":85675909
+            "region_id":1175613121
         }
     ],
     "wof:id":890451511,
     "wof:lastmodified":1566676567,
     "wof:name":"Magdalena Nueva",
-    "wof:parent_id":85675909,
+    "wof:parent_id":1175613121,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
