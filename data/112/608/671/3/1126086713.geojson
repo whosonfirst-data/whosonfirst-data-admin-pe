@@ -138,12 +138,6 @@
     "name:war_x_preferred":[
         "San Miguel"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5723\u7c73\u683c\u5c14\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u8056\u7c73\u683c\u723e\u6cb3"
-    ],
     "qs_pg:aaroncc":"PE",
     "qs_pg:gn_country":"PE",
     "qs_pg:gn_fcode":"PPLX",
@@ -197,7 +191,7 @@
         }
     ],
     "wof:id":1126086713,
-    "wof:lastmodified":1636500294,
+    "wof:lastmodified":1794999722,
     "wof:name":"San Miguel",
     "wof:parent_id":421186805,
     "wof:placetype":"neighbourhood",

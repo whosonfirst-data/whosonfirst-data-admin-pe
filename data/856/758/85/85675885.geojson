@@ -240,12 +240,6 @@
     "name:wuu_x_preferred":[
         "\u5723\u9a6c\u4e01\u5927\u533a"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5723\u9a6c\u4e01\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u8056\u99ac\u4e01\u6cb3"
-    ],
     "name:zho_x_preferred":[
         "\u5723\u9a6c\u4e01\u5927\u533a"
     ],
@@ -377,7 +371,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1695884862,
+    "wof:lastmodified":1794999722,
     "wof:name":"San Martin",
     "wof:parent_id":85632521,
     "wof:placetype":"region",
