@@ -1,0 +1,75 @@
+{
+  "id": 9895093077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.1921,-16.36314,-72.1921,-16.36314",
+    "geom:latitude":-16.36314,
+    "geom:longitude":-72.1921,
+    "gn:population":20063,
+    "iso:country":"PE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12157092: name \"El Pedregal\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12157092"
+        },
+        {
+            "citation":"GeoNames populated place 12157092: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12157092"
+        },
+        {
+            "citation":"GeoNames populated place 12157092: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12157092"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421193379 (Caylloma), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521,
+        85675839,
+        102191577,
+        421193379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12157092
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"55b743bf78836ae72ad32e39a8cca6e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193379,
+            "locality_id":9895093077,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":9895093077,
+    "wof:lastmodified":1795747158,
+    "wof:name":"El Pedregal",
+    "wof:parent_id":421193379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.1921,
+    -16.36314,
+    -72.1921,
+    -16.36314
+],
+  "geometry": {"coordinates":[-72.1921,-16.36314],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 9895093072,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.53774,-8.39818,-74.53774,-8.39818",
+    "geom:latitude":-8.39818,
+    "geom:longitude":-74.53774,
+    "gn:population":67844,
+    "iso:country":"PE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12157037: name \"San Fernando\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12157037"
+        },
+        {
+            "citation":"GeoNames populated place 12157037: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12157037"
+        },
+        {
+            "citation":"GeoNames populated place 12157037: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12157037"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421171957 (Coronel Portillo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521,
+        85675891,
+        102191577,
+        421171957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12157037
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"bbf1353100d7ef3bbbbcf3c108e81c60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171957,
+            "locality_id":9895093072,
+            "region_id":85675891
+        }
+    ],
+    "wof:id":9895093072,
+    "wof:lastmodified":1795747158,
+    "wof:name":"San Fernando",
+    "wof:parent_id":421171957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.53774,
+    -8.39818,
+    -74.53774,
+    -8.39818
+],
+  "geometry": {"coordinates":[-74.53774,-8.39818],"type":"Point"}
+}

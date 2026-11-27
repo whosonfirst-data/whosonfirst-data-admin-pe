@@ -1,0 +1,75 @@
+{
+  "id": 9895093073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.96531,-13.52493,-71.96531,-13.52493",
+    "geom:latitude":-13.52493,
+    "geom:longitude":-71.96531,
+    "gn:population":59134,
+    "iso:country":"PE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12157056: name \"Wanchaq\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12157056"
+        },
+        {
+            "citation":"GeoNames populated place 12157056: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12157056"
+        },
+        {
+            "citation":"GeoNames populated place 12157056: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12157056"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421172425 (Cusco), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521,
+        85675843,
+        102191577,
+        421172425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12157056
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ba6fa53763dac8ad4f3292db7e0fd297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421172425,
+            "locality_id":9895093073,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":9895093073,
+    "wof:lastmodified":1795747158,
+    "wof:name":"Wanchaq",
+    "wof:parent_id":421172425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.96531,
+    -13.52493,
+    -71.96531,
+    -13.52493
+],
+  "geometry": {"coordinates":[-71.96531,-13.52493],"type":"Point"}
+}

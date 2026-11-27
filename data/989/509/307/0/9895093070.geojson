@@ -1,0 +1,75 @@
+{
+  "id": 9895093070,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.99876,-12.08911,-76.99876,-12.08911",
+    "geom:latitude":-12.08911,
+    "geom:longitude":-76.99876,
+    "gn:population":105076,
+    "iso:country":"PE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12157013: name \"San Francisco De Borja\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12157013"
+        },
+        {
+            "citation":"GeoNames populated place 12157013: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12157013"
+        },
+        {
+            "citation":"GeoNames populated place 12157013: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12157013"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421202549 (Lima), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521,
+        102191577,
+        421202549,
+        1175613121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12157013
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"af65c1901456307aa58739362f8aa92e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202549,
+            "locality_id":9895093070,
+            "region_id":1175613121
+        }
+    ],
+    "wof:id":9895093070,
+    "wof:lastmodified":1795747158,
+    "wof:name":"San Francisco De Borja",
+    "wof:parent_id":421202549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.99876,
+    -12.08911,
+    -76.99876,
+    -12.08911
+],
+  "geometry": {"coordinates":[-76.99876,-12.08911],"type":"Point"}
+}
