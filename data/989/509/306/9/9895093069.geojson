@@ -1,0 +1,75 @@
+{
+  "id": 9895093069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.97335,-12.05048,-76.97335,-12.05048",
+    "geom:latitude":-12.05048,
+    "geom:longitude":-76.97335,
+    "gn:population":184614,
+    "iso:country":"PE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12157007: name \"Santa Anita - Los Ficus\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12157007"
+        },
+        {
+            "citation":"GeoNames populated place 12157007: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12157007"
+        },
+        {
+            "citation":"GeoNames populated place 12157007: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12157007"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421202549 (Lima), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521,
+        102191577,
+        421202549,
+        1175613121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12157007
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a06b6b4dd001811fd7e0258f9c5c4632",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202549,
+            "locality_id":9895093069,
+            "region_id":1175613121
+        }
+    ],
+    "wof:id":9895093069,
+    "wof:lastmodified":1795747158,
+    "wof:name":"Santa Anita - Los Ficus",
+    "wof:parent_id":421202549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.97335,
+    -12.05048,
+    -76.97335,
+    -12.05048
+],
+  "geometry": {"coordinates":[-76.97335,-12.05048],"type":"Point"}
+}

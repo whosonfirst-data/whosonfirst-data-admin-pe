@@ -1,0 +1,75 @@
+{
+  "id": 9895093074,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.53045,-9.51656,-77.53045,-9.51656",
+    "geom:latitude":-9.51656,
+    "geom:longitude":-77.53045,
+    "gn:population":47581,
+    "iso:country":"PE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12157064: name \"Centenario\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12157064"
+        },
+        {
+            "citation":"GeoNames populated place 12157064: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12157064"
+        },
+        {
+            "citation":"GeoNames populated place 12157064: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12157064"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421187921 (Huaraz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521,
+        85675865,
+        102191577,
+        421187921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12157064
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d3e0fea9153ebc917985d03da338abe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187921,
+            "locality_id":9895093074,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":9895093074,
+    "wof:lastmodified":1795747158,
+    "wof:name":"Centenario",
+    "wof:parent_id":421187921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.53045,
+    -9.51656,
+    -77.53045,
+    -9.51656
+],
+  "geometry": {"coordinates":[-77.53045,-9.51656],"type":"Point"}
+}

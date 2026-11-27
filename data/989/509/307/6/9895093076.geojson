@@ -1,0 +1,75 @@
+{
+  "id": 9895093076,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.34224,-6.49265,-76.34224,-6.49265",
+    "geom:latitude":-6.49265,
+    "geom:longitude":-76.34224,
+    "gn:population":24932,
+    "iso:country":"PE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12157074: name \"La Banda\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12157074"
+        },
+        {
+            "citation":"GeoNames populated place 12157074: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12157074"
+        },
+        {
+            "citation":"GeoNames populated place 12157074: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12157074"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421175177 (San Mart\u00edn), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521,
+        85675885,
+        102191577,
+        421175177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12157074
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"299a48d23bc858469b8f7125d43791c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175177,
+            "locality_id":9895093076,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":9895093076,
+    "wof:lastmodified":1795747158,
+    "wof:name":"La Banda",
+    "wof:parent_id":421175177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.34224,
+    -6.49265,
+    -76.34224,
+    -6.49265
+],
+  "geometry": {"coordinates":[-76.34224,-6.49265],"type":"Point"}
+}

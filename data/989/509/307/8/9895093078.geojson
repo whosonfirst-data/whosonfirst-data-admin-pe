@@ -1,0 +1,75 @@
+{
+  "id": 9895093078,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.52724,-16.37057,-71.52724,-16.37057",
+    "geom:latitude":-16.37057,
+    "geom:longitude":-71.52724,
+    "gn:population":72696,
+    "iso:country":"PE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12157128: name \"Selva Alegre\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12157128"
+        },
+        {
+            "citation":"GeoNames populated place 12157128: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12157128"
+        },
+        {
+            "citation":"GeoNames populated place 12157128: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12157128"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421198069 (Arequipa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521,
+        85675839,
+        102191577,
+        421198069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12157128
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d8c5ca0ac12fd5695a1eb40b3d901418",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421198069,
+            "locality_id":9895093078,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":9895093078,
+    "wof:lastmodified":1795747158,
+    "wof:name":"Selva Alegre",
+    "wof:parent_id":421198069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.52724,
+    -16.37057,
+    -71.52724,
+    -16.37057
+],
+  "geometry": {"coordinates":[-71.52724,-16.37057],"type":"Point"}
+}
